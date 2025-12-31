@@ -11,6 +11,8 @@ hello git! hello atguigu! c = 18
 
 hello git! hello atguigu! d = 11
 
+hello git! hello atguigu! 我是lhc我是lhc我是lhc我是lhc我是lhc我是lhc我是lhc
+
 hello git! hello atguigu!
 
 hello git! hello atguigu!
@@ -30,4 +32,8 @@ hello git! hello atguigu!77777
 hello git! hello atguigu!  hot-fix test
 111
 222
+
+ybq又增加了新代码
+
+lhc开发了新功能
 
